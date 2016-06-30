@@ -1,6 +1,6 @@
 # EmailGenerator
 
-#Introduction Email Generator
+
 The email generator that I created is a program that implements a prototype user interface for composing an email message.The program should also display a dialog box alerting the user that the message has been sent. When the user closes the dialog box, all text fields and text areas should be emptied.
 
 #Implementation
@@ -9,7 +9,7 @@ In this program, I created it repetitely. This program contains two classes: "La
 
 ##LabAssignment4.java
 ###Methods
-public class LabAssignment4 extends JPanel implements ActionListener: is actually the method in which I Created all of the following fields: To, From, Subject message, and I created a send button.
+public class LabAssignment extends JPanel implements ActionListener: is actually the method in which I Created all of the following fields: To, From, Subject message, and I created a send button.
 
 public void actionPerformed(ActionEvent event): In this function, I created it where it sends the user a null message if the user don't fill out all of the necessary fields. 
 
