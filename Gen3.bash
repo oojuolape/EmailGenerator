@@ -1,8 +1,3 @@
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
-import java.io.*;
-
 public class TheMotivator {
 	public void feedback(int score) {
 		if (score == 100)
